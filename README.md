@@ -18,7 +18,8 @@ v.4.5.176
 *По всем возникающим вопросам можно обращаться в телеграм-аккаунт [@Leybasoft](https://t.me/Leybasoft)* 
 
 [Скачать](https://github.com/zoltanleo/ARM_doc_v4/releases) последнюю версию приложения
-Почитать [справку](https://github.com/zoltanleo/ARM_doc_v4/wiki)
+
+[Справка](https://github.com/zoltanleo/ARM_doc_v4/wiki)  приложения
 
 ===============================
 
